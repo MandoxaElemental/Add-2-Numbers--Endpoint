@@ -1,0 +1,27 @@
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/appsettings.Development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/appsettings.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.deps.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.runtimeconfig.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/staticwebassets.build.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/staticwebassets.development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/scopedcss/bundle/Add 2 Numbers  Endpoint.styles.css
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.csproj.CopyComplete
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/refint/Add 2 Numbers  Endpoint.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/ref/Add 2 Numbers  Endpoint.dll
