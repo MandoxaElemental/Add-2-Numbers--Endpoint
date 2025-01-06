@@ -15,7 +15,7 @@
 > Notes: dotnet new webapi & dotnet watch run <- Important; Copy for every project for now on
 
 ### Add 2 Numbers - Endpoint_GitHub Repository Link:_
-[Weather Sprint GitHub Repository Link]()
+[Weather Sprint GitHub Repository Link](https://github.com/MandoxaElemental/Add-2-Numbers--Endpoint.git)
 
 This has been Peer Reviewed By: 
 > Comments: 
