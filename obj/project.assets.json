@@ -437,19 +437,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/user/.nuget/packages/": {}
+    "/home/santiago/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/Add 2 Numbers  Endpoint.csproj",
+      "projectUniqueName": "/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/Add 2 Numbers  Endpoint.csproj",
       "projectName": "Add 2 Numbers  Endpoint",
-      "projectPath": "/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/Add 2 Numbers  Endpoint.csproj",
-      "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/",
+      "projectPath": "/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/Add 2 Numbers  Endpoint.csproj",
+      "packagesPath": "/home/santiago/.nuget/packages/",
+      "outputPath": "/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/user/.nuget/NuGet/NuGet.Config"
+        "/home/santiago/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -489,6 +489,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -497,7 +511,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.425/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.110/RuntimeIdentifierGraph.json"
       }
     }
   }

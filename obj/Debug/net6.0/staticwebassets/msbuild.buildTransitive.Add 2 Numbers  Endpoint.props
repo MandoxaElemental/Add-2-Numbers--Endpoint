@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Add 2 Numbers  Endpoint.props" />
+</Project>

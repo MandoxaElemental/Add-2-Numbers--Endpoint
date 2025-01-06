@@ -25,3 +25,36 @@
 /Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.pdb
 /Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.genruntimeconfig.cache
 /Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Add 2 Numbers  Endpoint/obj/Debug/net6.0/ref/Add 2 Numbers  Endpoint.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/appsettings.Development.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/appsettings.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.deps.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.runtimeconfig.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Add 2 Numbers  Endpoint.pdb
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.csproj.AssemblyReference.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.AssemblyInfoInputs.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.AssemblyInfo.cs
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.csproj.CoreCompileInputs.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.MvcApplicationPartsAssemblyInfo.cs
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.MvcApplicationPartsAssemblyInfo.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.sourcelink.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/staticwebassets.build.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/staticwebassets.development.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/staticwebassets/msbuild.Add 2 Numbers  Endpoint.Microsoft.AspNetCore.StaticWebAssets.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/staticwebassets/msbuild.build.Add 2 Numbers  Endpoint.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Add 2 Numbers  Endpoint.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Add 2 Numbers  Endpoint.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/staticwebassets.pack.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/scopedcss/bundle/Add 2 Numbers  Endpoint.styles.css
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.csproj.CopyComplete
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/refint/Add 2 Numbers  Endpoint.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.pdb
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/Add 2 Numbers  Endpoint.genruntimeconfig.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/Add-2-Numbers--Endpoint/obj/Debug/net6.0/ref/Add 2 Numbers  Endpoint.dll

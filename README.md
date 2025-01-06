@@ -17,5 +17,5 @@
 ### Add 2 Numbers - Endpoint_GitHub Repository Link:_
 [Weather Sprint GitHub Repository Link](https://github.com/MandoxaElemental/Add-2-Numbers--Endpoint.git)
 
-This has been Peer Reviewed By: 
-> Comments: 
+This has been Peer Reviewed By: Santiago Jesus Montanez
+> Comments: Wasn't able to do a review due to it being dotnet 6

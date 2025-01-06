@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Add 2 Numbers  Endpoint.props" />
+</Project>
